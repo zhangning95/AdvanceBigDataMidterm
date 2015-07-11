@@ -2,6 +2,6 @@
 
 Hi 
 
-This is our midterm project of group 6 -- Baochen Hu & Ning Zhang. 
+We are group 6 -- Baochen Hu & Ning Zhang. 
 
 Thank you. 
